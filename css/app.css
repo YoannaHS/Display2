@@ -6,9 +6,10 @@
   color: white;
 }
 div {
-  height: 100px;
+  height: 250px;
   font-size: 30px;
   margin: 15px;
-  display: block;
+  display: inline-block;
   width: 300px;
+
 }
